@@ -1,0 +1,15 @@
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\bin\Debug\StormbreakerApp.exe.config
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\bin\Debug\StormbreakerApp.exe
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\bin\Debug\StormbreakerApp.pdb
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\obj\Debug\StormbreakerApp.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\obj\Debug\StormbreakerApp.Properties.Resources.resources
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\obj\Debug\StormbreakerApp.csproj.GenerateResource.cache
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\obj\Debug\StormbreakerApp.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\obj\Debug\StormbreakerApp.exe
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\obj\Debug\StormbreakerApp.pdb
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\obj\Debug\StormbreakerApp.Main.resources
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\obj\Debug\StormbreakerApp.Import.resources
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\bin\Debug\StormbreakerApp.exe.manifest
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\bin\Debug\StormbreakerApp.application
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\obj\Debug\StormbreakerApp.exe.manifest
+C:\Users\Guilherme\source\repos\StormbreakerApp\StormbreakerApp\obj\Debug\StormbreakerApp.application

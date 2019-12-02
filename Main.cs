@@ -136,7 +136,7 @@ namespace StormbreakerApp
             {
                 for (int i = 0; i < dataGridView1.Columns.Count; i++)
                 {
-                    sw.Write(value.Data + ";" + value.Temperatura + ";" + value.Umidade + ";" + value.Vento + ";" + value.UV + ";" + value.Luminosidade + ";\n");
+                    sw.WriteLine(value.Data + ";" + value.Temperatura + ";" + value.Umidade + ";" + value.Vento + ";" + value.UV + ";" + value.Luminosidade + ";");
                 }
             }
             sw.Close();

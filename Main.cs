@@ -125,10 +125,10 @@ namespace StormbreakerApp
 
             for (int i = 0; i < dataGridView1.Columns.Count; i++)
             {
-                sw.Write(dataGridView1.Columns[i].Name + ",");
+                sw.Write(dataGridView1.Columns[i].Name + ";");
                 if (i > dataGridView1.Columns.Count - 1)
                 {
-                    sw.WriteLine(",");
+                    sw.WriteLine(";");
                 }
             }
             sw.Write(sw.NewLine);
@@ -136,7 +136,7 @@ namespace StormbreakerApp
             {
                 for (int i = 0; i < dataGridView1.Columns.Count; i++)
                 {
-                    sw.Write(value.Data + "," + value.Temperatura + "," + value.Umidade + "," + value.Vento + "," + value.UV + "," + value.Luminosidade + ",\n");
+                    sw.Write(value.Data + ";" + value.Temperatura + ";" + value.Umidade + ";" + value.Vento + ";" + value.UV + ";" + value.Luminosidade + ";\n");
                 }
             }
             sw.Close();
